@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaphoibei.cominetti.org/sitemap.xml
